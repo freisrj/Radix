@@ -1,0 +1,12 @@
+D:\OneDrive\Pessoal\Luiz\Trabalho\Radix\Radix.App\bin\Debug\netstandard2.0\Radix.App.deps.json
+D:\OneDrive\Pessoal\Luiz\Trabalho\Radix\Radix.App\bin\Debug\netstandard2.0\Radix.App.dll
+D:\OneDrive\Pessoal\Luiz\Trabalho\Radix\Radix.App\bin\Debug\netstandard2.0\Radix.App.pdb
+D:\OneDrive\Pessoal\Luiz\Trabalho\Radix\Radix.App\bin\Debug\netstandard2.0\Radix.Domain.dll
+D:\OneDrive\Pessoal\Luiz\Trabalho\Radix\Radix.App\bin\Debug\netstandard2.0\Radix.Domain.pdb
+D:\OneDrive\Pessoal\Luiz\Trabalho\Radix\Radix.App\obj\Debug\netstandard2.0\Radix.App.csprojAssemblyReference.cache
+D:\OneDrive\Pessoal\Luiz\Trabalho\Radix\Radix.App\obj\Debug\netstandard2.0\Radix.App.csproj.CoreCompileInputs.cache
+D:\OneDrive\Pessoal\Luiz\Trabalho\Radix\Radix.App\obj\Debug\netstandard2.0\Radix.App.AssemblyInfoInputs.cache
+D:\OneDrive\Pessoal\Luiz\Trabalho\Radix\Radix.App\obj\Debug\netstandard2.0\Radix.App.AssemblyInfo.cs
+D:\OneDrive\Pessoal\Luiz\Trabalho\Radix\Radix.App\obj\Debug\netstandard2.0\Radix.App.csproj.CopyComplete
+D:\OneDrive\Pessoal\Luiz\Trabalho\Radix\Radix.App\obj\Debug\netstandard2.0\Radix.App.dll
+D:\OneDrive\Pessoal\Luiz\Trabalho\Radix\Radix.App\obj\Debug\netstandard2.0\Radix.App.pdb

@@ -1,0 +1,14 @@
+D:\OneDrive\Pessoal\Luiz\Trabalho\Radix\Radix.Infra\obj\Debug\netstandard2.0\Radix.Infra.csprojAssemblyReference.cache
+D:\OneDrive\Pessoal\Luiz\Trabalho\Radix\Radix.Infra\obj\Debug\netstandard2.0\Radix.Infra.csproj.CoreCompileInputs.cache
+D:\OneDrive\Pessoal\Luiz\Trabalho\Radix\Radix.Infra\obj\Debug\netstandard2.0\Radix.Infra.AssemblyInfoInputs.cache
+D:\OneDrive\Pessoal\Luiz\Trabalho\Radix\Radix.Infra\obj\Debug\netstandard2.0\Radix.Infra.AssemblyInfo.cs
+D:\OneDrive\Pessoal\Luiz\Trabalho\Radix\Radix.Infra\bin\Debug\netstandard2.0\Radix.Infra.deps.json
+D:\OneDrive\Pessoal\Luiz\Trabalho\Radix\Radix.Infra\bin\Debug\netstandard2.0\Radix.Infra.dll
+D:\OneDrive\Pessoal\Luiz\Trabalho\Radix\Radix.Infra\bin\Debug\netstandard2.0\Radix.App.dll
+D:\OneDrive\Pessoal\Luiz\Trabalho\Radix\Radix.Infra\bin\Debug\netstandard2.0\Radix.Domain.dll
+D:\OneDrive\Pessoal\Luiz\Trabalho\Radix\Radix.Infra\bin\Debug\netstandard2.0\Radix.App.pdb
+D:\OneDrive\Pessoal\Luiz\Trabalho\Radix\Radix.Infra\bin\Debug\netstandard2.0\Radix.Domain.pdb
+D:\OneDrive\Pessoal\Luiz\Trabalho\Radix\Radix.Infra\obj\Debug\netstandard2.0\Radix.Infra.csproj.CopyComplete
+D:\OneDrive\Pessoal\Luiz\Trabalho\Radix\Radix.Infra\bin\Debug\netstandard2.0\Radix.Infra.pdb
+D:\OneDrive\Pessoal\Luiz\Trabalho\Radix\Radix.Infra\obj\Debug\netstandard2.0\Radix.Infra.dll
+D:\OneDrive\Pessoal\Luiz\Trabalho\Radix\Radix.Infra\obj\Debug\netstandard2.0\Radix.Infra.pdb

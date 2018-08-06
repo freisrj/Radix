@@ -1,0 +1,9 @@
+D:\OneDrive\Pessoal\Luiz\Trabalho\Radix\Radix.Domain\bin\Debug\netstandard2.0\Radix.Domain.deps.json
+D:\OneDrive\Pessoal\Luiz\Trabalho\Radix\Radix.Domain\bin\Debug\netstandard2.0\Radix.Domain.dll
+D:\OneDrive\Pessoal\Luiz\Trabalho\Radix\Radix.Domain\bin\Debug\netstandard2.0\Radix.Domain.pdb
+D:\OneDrive\Pessoal\Luiz\Trabalho\Radix\Radix.Domain\obj\Debug\netstandard2.0\Radix.Domain.csproj.CoreCompileInputs.cache
+D:\OneDrive\Pessoal\Luiz\Trabalho\Radix\Radix.Domain\obj\Debug\netstandard2.0\Radix.Domain.AssemblyInfoInputs.cache
+D:\OneDrive\Pessoal\Luiz\Trabalho\Radix\Radix.Domain\obj\Debug\netstandard2.0\Radix.Domain.AssemblyInfo.cs
+D:\OneDrive\Pessoal\Luiz\Trabalho\Radix\Radix.Domain\obj\Debug\netstandard2.0\Radix.Domain.dll
+D:\OneDrive\Pessoal\Luiz\Trabalho\Radix\Radix.Domain\obj\Debug\netstandard2.0\Radix.Domain.pdb
+D:\OneDrive\Pessoal\Luiz\Trabalho\Radix\Radix.Domain\obj\Debug\netstandard2.0\Radix.Domain.csprojAssemblyReference.cache
