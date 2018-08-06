@@ -41,6 +41,6 @@ namespace Radix.Tests
         {
             bool validacao = ValidadarDadosDeEntrada(new HttpResult<Loja>(), BANDEIRA_CARTAO_INVALIDO);
             validacao.Should().BeFalse();
-        }
+        } 
     }
 }
