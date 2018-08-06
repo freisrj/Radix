@@ -113,6 +113,111 @@ Json
 - Url: {Localhost}/api/transaction/search/transaction/{id}
 ```
 
+## Response - Transação
+Status 200 (Poucas vezes consegui efetuar transação com cartão Visa. O do exemplo é MasterCard)
+```
+{
+    "retorno": {
+        "id": 1,
+        "nome": "Loja A",
+        "cartoes": [
+            {
+                "id": 1,
+                "bandeira": 1,
+                "adquirente": 2,
+                "antiFraude": true,
+                "lojaId": 1
+            },
+            {
+                "id": 2,
+                "bandeira": 2,
+                "adquirente": 1,
+                "antiFraude": true,
+                "lojaId": 1
+            }
+        ],
+        "registroTransacaoCielo": null,
+        "registroTransacaoStone": [
+            {
+                "orderReference": "2018861987",
+                "acquirerMessage": "Simulator|Transação de simulação autorizada com sucesso",
+                "authorizationCode": "508314",
+                "transactionIdentifier": "45444",
+                "transactionKey": "30d3db10-5d60-4ec7-b3fd-2398b0361a41",
+                "uniqueSequentialNumber": "791697"
+            }
+        ]
+    },
+    "mensagem": null
+}
+```
+
+Status 400 (Possíveis retornos)
+``` 
+Json
+{
+    "retorno": null,
+    "mensagem": "Não foi possível efeturar a transação. Erro: 57 - Card Expired"
+}
+---
+{
+    "retorno": null,
+    "mensagem": "Não foi possível efeturar a transação. Erro: 78 - Blocked Card"
+}
+```
+
+
+## Response - Transação
+
+- Quanto há registros
+
+```
+{
+    "retorno": {
+        "id": 1,
+        "nome": "Loja A",
+        "cartoes": null,
+        "registroTransacaoCielo": [],
+        "registroTransacaoStone": [
+            {
+                "orderReference": "2018861987",
+                "acquirerMessage": "Simulator|Transação de simulação autorizada com sucesso",
+                "authorizationCode": "508314",
+                "transactionIdentifier": "45444",
+                "transactionKey": "30d3db10-5d60-4ec7-b3fd-2398b0361a41",
+                "uniqueSequentialNumber": "791697"
+            },
+            {
+                "orderReference": "2018882768",
+                "acquirerMessage": "Simulator|Transação de simulação autorizada com sucesso",
+                "authorizationCode": "349423",
+                "transactionIdentifier": "215297",
+                "transactionKey": "453fdf13-0230-483b-bdc5-cd578fc403b7",
+                "uniqueSequentialNumber": "214198"
+            }
+        ]
+    },
+    "mensagem": null
+}
+```
+
+- Quando não há registros
+
+```
+
+{
+    "retorno": {
+        "id": 2,
+        "nome": "Loja B",
+        "cartoes": null,
+        "registroTransacaoCielo": [],
+        "registroTransacaoStone": []
+    },
+    "mensagem": null
+}
+
+```
+
 ## Urls de consulta
 
 ```
@@ -123,6 +228,7 @@ Json
 ## Outras informações
 
 - Alguns modelos de entidades foram feitos de acordo com os dados disponibilizados pela Cielo e Stone
+- Não tratei problemas relacionados a timeout
 
 ## Autor
 
