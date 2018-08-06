@@ -1,7 +1,7 @@
-# Teste Radix
+# Teste Radix - Processo seletivo
 
 ```
-Projeto de teste da Radix para processo de seleção
+Projeto de teste da Radix
 ```
 
 ## Sobre o desenvolvimento do sistema
