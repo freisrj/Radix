@@ -42,7 +42,7 @@ Projeto de teste da Radix
 - Integração de antifraude não implementada
 ```
 
-## Testes
+## Testes Unitários
 
 ```
 - Não contempla todos os testes
@@ -62,6 +62,7 @@ Projeto de teste da Radix
 - Criado um seed para alimentar a base com os dados da loja e suas configurações
 - Há um cadastro de apenas 4 Clientes.
   * 2 trabalhando com master e visa e os outros 2 com apenas um deles
+- Há disponível 13 bandeiras de cartões sendo que o sistema utiliza apenas a Visa = 1 e MasterCard = 2
 ```
 
 ## Build
@@ -75,6 +76,11 @@ Projeto de teste da Radix
 ```
 - [Post]
 - Url: {Localhost}/api/transaction/create/sale
+
+	* Os dados de cartão são fictícios
+	* Lojas cadastradas possuem o Id de 1 a 4
+	* Parcelas limitei de 1 a 12
+	* Bandeiras disponíveis para transação: 1 e 2 (No sistema há 13 registradas)
 
 Json
 { 
@@ -101,9 +107,22 @@ Json
 ## Request (Json) - Consulta Transação
 
 ```
+	* Lojas cadastradas possuem o Id de 1 a 4
+	
 - [Get]
 - Url: {Localhost}/api/transaction/search/transaction/{id}
 ```
+
+## Urls de consulta
+
+```
+- Gerador de número de cartão de crédito
+	* https://www.4devs.com.br/gerador_de_numero_cartao_credito
+```
+
+## Outras informações
+
+- Alguns modelos de entidades foram feitos de acordo com os dados disponibilizados pela Cielo e Stone
 
 ## Autor
 
