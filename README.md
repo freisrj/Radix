@@ -1,8 +1,8 @@
 # Teste Radix
 
-´´´
+```
 Projeto de teste da Radix para processo de seleção
-´´´
+```
 
 ## Sobre o desenvolvimento do sistema
 
