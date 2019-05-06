@@ -1,7 +1,7 @@
 # Teste Radix - Processo seletivo
 
 ```
-Projeto de teste da Radix
+Projeto de teste da empresa Radix
 ```
 
 ## Sobre o desenvolvimento do sistema
